@@ -6,6 +6,7 @@ validated phone number.
 
 ```cs
 MakeQuickCall("0491 570 156");
+MakeQuickCall(TxtUserPhoneNo.Text);
 ```
 does the magic for you. The Phone number is validated so the below are correct entries
 * (+44)(0)20-12341234
@@ -16,3 +17,5 @@ invalid entries are
 * string words, names, places
 * (44+)020-12341234 
 * 12341234(+020)
+
+On invalid enties feeded to the method, this will return an error dialog box.
