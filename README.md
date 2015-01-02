@@ -13,6 +13,6 @@ does the magic for you. The Phone number is validated so the below are correct e
 * +44 (0) 1234-1234
 
 invalid entries are
-* ordinary words
+* string words, names, places
 * (44+)020-12341234 
 * 12341234(+020)
