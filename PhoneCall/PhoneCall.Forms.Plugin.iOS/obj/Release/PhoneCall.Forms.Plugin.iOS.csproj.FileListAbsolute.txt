@@ -1,0 +1,12 @@
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\PhoneCall.Forms.Plugin.iOS.XML
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\PhoneCall.Forms.Plugin.iOS.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\PhoneCall.Forms.Plugin.Abstractions.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\PhoneCall.Forms.Plugin.Abstractions.pdb
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\PhoneCall.Forms.Plugin.Abstractions.xml
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\Xamarin.Forms.Core.xml
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.xml
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\obj\Release\PhoneCall.Forms.Plugin.iOS.csprojResolveAssemblyReference.cache
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.iOS\obj\Release\PhoneCall.Forms.Plugin.iOS.dll

@@ -1,0 +1,10 @@
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\PhoneCall.Forms.Plugin.Abstractions.XML
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\PhoneCall.Forms.Plugin.Abstractions.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\PhoneCall.Forms.Plugin.Abstractions.pdb
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\obj\Release\PhoneCall.Forms.Plugin.Abstractions.csprojResolveAssemblyReference.cache
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\obj\Release\PhoneCall.Forms.Plugin.Abstractions.dll
+C:\Users\ishammohamed\Documents\Visual Studio 2013\Projects\PhoneCall - Copy\PhoneCall\PhoneCall.Forms.Plugin.Abstractions\obj\Release\PhoneCall.Forms.Plugin.Abstractions.pdb
